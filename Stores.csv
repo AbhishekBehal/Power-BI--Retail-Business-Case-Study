@@ -1,0 +1,151 @@
+StoreID,StoreName,City,Region
+S0001,Charles-Craig Store,North Charlesbury,East
+S0002,"Ferguson, Gibson and Mullins Store",West Kyletown,East
+S0003,"Miller, Burke and Reed Store",Justinborough,North
+S0004,Davis LLC Store,Bonillafort,West
+S0005,Taylor-Baird Store,Port Charles,North
+S0006,Martinez-Hays Store,North Aaronhaven,North
+S0007,"Joseph, Wu and Flores Store",Davisfurt,North
+S0008,Taylor Ltd Store,Margarettown,East
+S0009,Anderson-Roman Store,Maryshire,West
+S0010,Miller-Blake Store,West Tinafort,West
+S0011,Taylor-Ball Store,New Doris,North
+S0012,Graham-Tate Store,South Shawnshire,East
+S0013,Carlson-Anderson Store,Murraybury,West
+S0014,Walter-Wheeler Store,Hayeston,South
+S0015,"Cuevas, Leonard and Webb Store",Wilsonburgh,West
+S0016,Martinez LLC Store,South Howard,North
+S0017,Moore-Jimenez Store,Jeffreyburgh,South
+S0018,Underwood-Phillips Store,West Williamfurt,East
+S0019,Brown LLC Store,Pollardview,South
+S0020,Crane-Clark Store,Christinefort,South
+S0021,"Pace, Morris and Hill Store",Lake Meganstad,North
+S0022,Peterson LLC Store,Robynmouth,West
+S0023,"Myers, Johnson and Meyer Store",East Kayla,East
+S0024,"Hood, Monroe and Parker Store",Owensville,South
+S0025,Johns-Chavez Store,Lake Matthewville,North
+S0026,Cox Inc Store,Loweborough,West
+S0027,Mejia-Smith Store,Lake Mary,South
+S0028,Odonnell-Prince Store,Smithshire,North
+S0029,Gonzalez-Miller Store,Romerochester,North
+S0030,"Wilson, Nelson and Sellers Store",Websterton,North
+S0031,Murphy PLC Store,Emilyfort,East
+S0032,Roberts and Sons Store,West Vincent,West
+S0033,Hernandez Ltd Store,Atkinsshire,South
+S0034,"Dawson, Smith and Miller Store",Mariaborough,West
+S0035,Morse PLC Store,Hillfort,West
+S0036,Hendricks-Small Store,East Patrickberg,South
+S0037,Swanson LLC Store,Fosterfort,West
+S0038,"Davidson, Jones and Atkins Store",Dyerstad,East
+S0039,"Howe, Washington and Walker Store",Stokesview,South
+S0040,"Meadows, Hodge and Becker Store",Aprilfurt,South
+S0041,"Owens, Davenport and Vargas Store",Montgomeryshire,North
+S0042,"Hernandez, Russo and Williams Store",Teresaland,West
+S0043,Davis Inc Store,Michaelbury,South
+S0044,Arias-Thomas Store,Melissaview,South
+S0045,Robinson PLC Store,Deborahberg,East
+S0046,"Glenn, Santana and Holmes Store",Andrewstad,North
+S0047,"Rodriguez, Smith and Williams Store",South Tyler,South
+S0048,"Knight, Hernandez and Collins Store",New Jessicahaven,East
+S0049,Cooper-Ford Store,Edwardsbury,South
+S0050,"Fischer, Graham and Robinson Store",Marvintown,South
+S0051,Ward-Wells Store,South Linda,South
+S0052,Parsons-Pitts Store,Joshuaton,East
+S0053,Butler Ltd Store,Warrenstad,West
+S0054,Shaw-Clements Store,New Jason,South
+S0055,Gonzalez Group Store,Sarashire,South
+S0056,"Hernandez, Collins and Adkins Store",East Jennifer,West
+S0057,Fowler and Sons Store,East Richardfurt,South
+S0058,Wilson-Nolan Store,Theresahaven,North
+S0059,"Frazier, Todd and Spencer Store",Lake Samanthatown,South
+S0060,Williams-Wright Store,Walkerborough,North
+S0061,Diaz-Spencer Store,Port Nancyland,West
+S0062,"Lopez, Hayden and Moore Store",Aaronfurt,East
+S0063,Alexander-Kennedy Store,East Lisa,West
+S0064,Herman-Erickson Store,Marymouth,South
+S0065,"Anderson, Payne and Simpson Store",North Leahberg,North
+S0066,Mann-Carey Store,Wardbury,East
+S0067,Miller-Ortega Store,Welchchester,South
+S0068,Garrett LLC Store,East Patricia,East
+S0069,Jones and Sons Store,Mcdonaldchester,East
+S0070,"Pruitt, Peters and Munoz Store",Heatherfurt,South
+S0071,Watson Ltd Store,Reesebury,West
+S0072,Foster Inc Store,Port Mercedes,South
+S0073,"Pena, Castillo and Phillips Store",South James,South
+S0074,Scott LLC Store,Bakermouth,West
+S0075,Smith Inc Store,Port Brian,North
+S0076,Trujillo Inc Store,Lisaland,South
+S0077,Weeks-Kelly Store,North Andrewfort,East
+S0078,"Kramer, Harper and Velazquez Store",Williamsside,South
+S0079,Zimmerman-Collins Store,Lake Morganmouth,South
+S0080,Lewis PLC Store,South Kerryhaven,East
+S0081,"Horn, Davis and Martinez Store",Brittanymouth,West
+S0082,Perez-Cardenas Store,Knightfort,North
+S0083,Floyd-Cantu Store,New James,North
+S0084,Dean PLC Store,Port Mary,East
+S0085,Johnson-Johnson Store,Millerview,West
+S0086,Francis Ltd Store,West Sergio,South
+S0087,Perez-Turner Store,Josephfort,South
+S0088,"Crawford, Rodgers and Daniels Store",Port Matthew,South
+S0089,Cervantes-Love Store,Elizabethburgh,South
+S0090,"Jones, Schmidt and Hunter Store",Johnsonmouth,South
+S0091,Hunt-Brown Store,Lake Richardhaven,East
+S0092,"Ferrell, Lamb and Anderson Store",Cookfort,South
+S0093,Armstrong-Hernandez Store,South Christopherside,South
+S0094,"Scott, Bryant and Levine Store",East Carolbury,West
+S0095,Robertson Group Store,Nielsenborough,South
+S0096,Aguilar-Williams Store,East Jacobmouth,North
+S0097,Lewis and Sons Store,Michaelshire,East
+S0098,Lopez PLC Store,Susanville,East
+S0099,Baker-Williams Store,East Tyrone,East
+S0100,Smith-Hayes Store,Smithhaven,North
+S0101,"Wilson, Collins and David Store",South Bethton,South
+S0102,"Humphrey, Fox and Salinas Store",Kirkstad,East
+S0103,"Ford, Stevens and Sharp Store",North Loriview,North
+S0104,Scott-Stevens Store,South Barrymouth,West
+S0105,Powell Group Store,Port Amanda,South
+S0106,Morales-Smith Store,Scottview,North
+S0107,Gray-Love Store,Port Alex,South
+S0108,Bond PLC Store,Zacharystad,West
+S0109,Wilson and Sons Store,Lewismouth,North
+S0110,"Newman, Martinez and Carpenter Store",Hannahtown,South
+S0111,Trevino PLC Store,Natalieberg,North
+S0112,Grimes-Medina Store,Lopezton,East
+S0113,Peters-Green Store,East Davidmouth,South
+S0114,Anderson-Green Store,Port Elizabeth,North
+S0115,George and Sons Store,Laraview,East
+S0116,Escobar Ltd Store,Lake Stacy,West
+S0117,Schneider-Murillo Store,Vasquezhaven,South
+S0118,Hudson-Bates Store,Juliehaven,South
+S0119,Mccullough Group Store,Stacyview,West
+S0120,"Levy, Johnson and Nelson Store",New Annashire,East
+S0121,Hinton-Davis Store,Wendyshire,West
+S0122,King LLC Store,North James,South
+S0123,Murillo PLC Store,Lake Arthur,North
+S0124,"Hill, Johns and Hart Store",Ryanmouth,East
+S0125,Levy Ltd Store,South Christine,East
+S0126,Jarvis-Yates Store,North Juliaburgh,East
+S0127,Garcia-Rasmussen Store,Port Rhonda,West
+S0128,Wilson Group Store,East Catherinefurt,West
+S0129,"Young, Grant and Davis Store",Gonzaleztown,North
+S0130,"Smith, Hansen and Swanson Store",East Michael,North
+S0131,Mccormick LLC Store,Gomeztown,East
+S0132,"Herring, Davis and Norris Store",North Scott,North
+S0133,"Morgan, Bailey and Ward Store",Port Michaelton,West
+S0134,"Drake, Mckinney and Armstrong Store",Lake Steven,North
+S0135,Jackson-Dean Store,North David,West
+S0136,Berry-Gonzalez Store,Jasonside,North
+S0137,Clark Group Store,Adamport,South
+S0138,Browning Group Store,East Christian,West
+S0139,Johnston-Thompson Store,Lake Benjamin,South
+S0140,Murray-Stone Store,Mahoneyberg,West
+S0141,Freeman-Bradley Store,West Allisonville,North
+S0142,Kramer-Coleman Store,New Johnton,South
+S0143,Bass LLC Store,Kennethport,North
+S0144,Washington PLC Store,Robinsonhaven,West
+S0145,Richards and Sons Store,Scottfort,South
+S0146,"Johnson, Kelley and Stephens Store",Dyershire,East
+S0147,White-Buchanan Store,West Mariah,North
+S0148,Lee PLC Store,Daniellemouth,West
+S0149,"Smith, Shepherd and Atkinson Store",New Maria,South
+S0150,Cox Inc Store,Micheleside,North

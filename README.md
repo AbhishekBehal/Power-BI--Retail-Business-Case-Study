@@ -20,3 +20,6 @@
 5. KPI Cards & Bookmarks
 •	Create dynamic views using slicers (Year, Brand, Category)
 •	Use bookmarks for storytelling dashboards
+
+
+#Dashboard --------   https://github.com/AbhishekBehal/Power-BI--Retail-Business-Case-Study/blob/main/Screenshot%202025-04-22%20185418.png
